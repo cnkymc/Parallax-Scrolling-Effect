@@ -1,9 +1,4 @@
-/*!
- * Name    : Just Another Parallax [Jarallax]
- * Version : 1.12.5
- * Author  : nK <https://nkdev.info>
- * GitHub  : https://github.com/nk-o/jarallax
- */
+
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
